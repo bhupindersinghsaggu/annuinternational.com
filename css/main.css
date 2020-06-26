@@ -5838,3 +5838,10 @@ isotope animations
 .diller a img{ margin:0 !important; padding:0 !important; }
 .lefte { float: left !important;  width:50px !important; margin-top:10px; }
 .lefte:hover { background-color:rgba(255,255,255,0.7); }
+
+
+.heading{
+  text-align: center;
+  background-color: #00abef;
+  color: #fff;
+}
